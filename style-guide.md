@@ -11,13 +11,13 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Strong Cyan: hsl(171, 66%, 44%)
-- Light Blue: hsl(233, 100%, 69%)
+- Strong Cyan: hsl(171, 66%, 44%) ->> BLEU turquoi
+- Light Blue: hsl(233, 100%, 69%) --> Violet
 
 ### Neutral
 
-- Dark Grayish Blue: hsl(210, 10%, 33%)
-- Grayish Blue: hsl(201, 11%, 66%)
+- Dark Grayish Blue: hsl(210, 10%, 33%) --> black
+- Grayish Blue: hsl(201, 11%, 66%) --> grey
 
 ## Typography
 
@@ -37,3 +37,8 @@ For the social icons, you can use the SVGs provided or a font icon library. Some
 - [Font Awesome](https://fontawesome.com)
 - [IcoMoon](https://icomoon.io)
 - [Ionicons](https://ionicons.com)
+
+font-Awe/list : <i class="fas fa-list"></i>
+font-Awe/text : <i class="fas fa-text-height"></i>
+font-Awe/eyes : <i class="fas fa-eye"></i>
+
